@@ -1,0 +1,4 @@
+repository "LawisLib@Lawis@cloud"
+  path "/"
+    br "/main"
+    co "/main"
